@@ -16,7 +16,7 @@ Since there is no officially collated list for this, I started by scraping 4 Wik
 
 NOTE: Parts of the code were written using AI.
 
-## Data Sources:
+## Data Sources
 1. GBIF Secretariat. (2023). GBIF Backbone Taxonomy Checklist dataset, https://doi.org/10.15468/39omei accessed via GBIF.org on 2025‑07‑10. 
 
 2. Bánki, O., Roskov, Y., Döring, M., Ower, G., Hernández Robles, D. R., Plata Corredor, C. A., Stjernegaard Jeppesen, T., Örn, A., Pape, T., Hobern, D., Garnett, S., Little, H., DeWalt, R. E., Miller, J., & Orrell, T. (2025). Catalogue of Life (Annual Checklist 2025). Catalogue of Life Foundation, Amsterdam, Netherlands. https://doi.org/10.48580/dgr6n
@@ -32,5 +32,5 @@ NOTE: Parts of the code were written using AI.
 ## Skills learned
 Much of the learning on this first project was to do with scraping, using APIs and figuring out how to clean the data. 
 
-## Things I would have liked to do:
+## Things I would have liked to do
 If I had more time, I would have liked to add information regarding each species threat status as per IUCN categories of endangerment and analyse those. I would also have liked to explore the countries of origin of these fictional works.
